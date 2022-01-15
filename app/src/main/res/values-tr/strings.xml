@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DesignSample-Kotlin</string>
+    <string name="add_to_chart">SEPETE EKLE</string>
+    <string name="title_beef_cheese">Etli Peynirli</string>
+    <string name="cheese">Peynir</string>
+    <string name="sausage">Sucuk</string>
+    <string name="olive">Zeytin</string>
+    <string name="pepper">Biber</string>
+    <string name="delivery">Teslimat</string>
+    <string name="meat_lover_get_ready_to_meet_your_pizza">Et sever, pizzanla tanışmaya hazırlan !</string>
+    <string name="price">90 ₺</string>
+    <string name="pizza">Pizza</string>
+    <string name="_20_min">20 dakika</string>
+</resources>
